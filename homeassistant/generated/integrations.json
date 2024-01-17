@@ -6936,6 +6936,12 @@
       "config_flow": true,
       "iot_class": "calculated"
     },
+    "scene_fader": {
+      "name": "SceneFader",
+      "integration_type": "helper",
+      "config_flow": true,
+      "iot_class": "calculated"
+    },
     "schedule": {
       "integration_type": "helper",
       "config_flow": false
